@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on 2 Projects
-1.🧑‍🎓 A [student Help App](https://github.com/TalikaSuchi/Talika)
-2. 🆘🚨A Emergency Help System AKA [Help Me App](https://github.com/DrKakku/help-me-app)
+     - [x] 🧑‍🎓 A [student Help App](https://github.com/TalikaSuchi/Talika)
+     - [ ] 🆘🚨A Emergency Help System AKA [Help Me App](https://github.com/DrKakku/help-me-app)
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about Anything
 - 📫 How to reach me: My Mail drkakku19@gmail.com 
