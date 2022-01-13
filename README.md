@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 My current and past projects:- 
-     - [x] 🧑‍🎓 A [student Help App](https://github.com/TalikaSuchi/Talika)
-     - [x] 🆘🚨A Emergency Help System AKA [Help Me App](https://github.com/DrKakku/help-me-app)
-     - [x] 🐍 An shell and Python Interface [Python-Shell](https://github.com/OS-Project-For-CSE2005/Python-Shell)
-     - [x] 🧠 An application which stimulates the brain to increase Cognitive functioning "hopefully"  [Cognify](https://github.com/ProjectCognify/CognifyProject)
+     - [x] 🧑‍🎓 A [student Help App](https://github.com/DrKakku/Talika)
+     - [x] 🆘🚨An Emergency Help System AKA [Help Me App](https://github.com/DrKakku/help-me-app)
+     - [x] 🐍 A shell and Python Interface [Python-Shell](https://github.com/DrKakku/Python-Shell)
+     - [x] 🧠 An application which stimulates the brain to increase Cognitive functioning "hopefully"  [Cognify](https://github.com/DrKakku/CognifyProject)
 
 - 🌱 I’m currently learning Machine Learning and artificial Intelligence 
 - 💬 Ask me about Anything
